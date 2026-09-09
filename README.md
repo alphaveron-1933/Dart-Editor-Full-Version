@@ -251,4 +251,4 @@ This repository serves as the official landing page for Dart Editor. The softwar
 **Get the most recent version of Dart Editor today!**
 
 ---
-**Last updated:** 2026-09-08 23:50:44 UTC
+**Last updated:** 2026-09-09 03:14:42 UTC
